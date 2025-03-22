@@ -4,6 +4,8 @@
 
 This is a simple number classification API that evaluates whether a number is prime, perfect, or an Armstrong number. It also provides the sum of digits, odd/even classification, and a fun fact.
 
+This was created as the solution to task one under the HNG internship , were the devops route interns were tasked to create a number classification api , hosted on any cloud service
+
 ## Features
 
 - Determines if a number is **prime**
